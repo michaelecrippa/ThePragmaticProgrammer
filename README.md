@@ -62,7 +62,20 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
      - What's the context?
      - When or Where would this work?
      - Why is this a problem?
-- Communicate
+- Communicate  
+`Quote: I believe that it is better to be looked over than it is to be overlooked. - Mae West`
+ - Know your audience
+ - Know what you want to say  
+ - Choose your moment  
+ - Choose a style
+ - Make it look good
+ - Involve the audience
+ - Be a listener
+ - Get back to people
+ `Tip: It's both what you say and the way you say it`  
+ - Documentation   
+`Tip: Build documentation in, don't bold it on`
 
+Note: Books recommendations about communications within teams 
 
-
+## Chapter 2 - A Pragmatic Approach
