@@ -98,7 +98,7 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
  - Duplication across internal APIs
  - Duplication across external APIs
  - Duplication with data sources
- - Interdeveloper duplication
+ - Interdeveloper duplication  
 `Tip: Make it easy to reuse`
 
 ### Orthogonality
