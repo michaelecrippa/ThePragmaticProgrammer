@@ -62,20 +62,43 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
      - What's the context?
      - When or Where would this work?
      - Why is this a problem?
+
 - Communicate  
 `Quote: I believe that it is better to be looked over than it is to be overlooked. - Mae West`
- - Know your audience
- - Know what you want to say  
- - Choose your moment  
- - Choose a style
- - Make it look good
- - Involve the audience
- - Be a listener
- - Get back to people
+   - Know your audience
+   - Know what you want to say  
+   - Choose your moment  
+   - Choose a style
+   - Make it look good
+   - Involve the audience
+  - Be a listener
+   - Get back to people  
  `Tip: It's both what you say and the way you say it`  
- - Documentation   
-`Tip: Build documentation in, don't bold it on`
+   - Documentation   
+`Tip: Build documentation in, don't bold it on`  
 
-Note: Books recommendations about communications within teams 
+  Book recommendations about communications within teams 
 
-## Chapter 2 - A Pragmatic Approach
+## Chapter 2 - A Pragmatic Approach  
+
+### The Essence of Good Design  
+`Tip: Good design is easier to change than bad design`
+- ETC is a value, not a rule
+
+### DRY - The Evils of Duplication
+`Tip: DRY - Don't repeat yourself`
+
+### DRY is More Than Code
+
+### Duplication in Code
+ - Not all code duplication is knowledge duplication
+ - Duplication in documentation
+ - DRY violation in data
+ - Representational duplication
+ - Duplication across internal APIs
+ - Duplication across external APIs
+ - Duplication with data sources
+ - Interdeveloper duplication
+`Tip: Make it easy to reuse`
+
+### Orthogonality
