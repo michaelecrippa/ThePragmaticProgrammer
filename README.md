@@ -121,3 +121,10 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
 `Tip: There are no final decisions`
 - Flexible Architecture  
 `Tip: Forgo following Fads`
+
+### Tracer Bullets
+- Code that glows in the dark  
+`Tip: Use tracer bullets to find the target`
+- Tracer bullets don't always hit their target
+- Tracer code versus prototyping
+
