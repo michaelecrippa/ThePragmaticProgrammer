@@ -114,3 +114,10 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
  - Testing
  - Documentation
 - Living with orthogonality
+
+### Reversibility
+`Quote: Nothing is more dangerous than an idea if it's the only one you have. - Emil-Auguste Chartier`  
+- Reversibility  
+`Tip: There are no final decisions`
+- Flexible Architecture  
+`Tip: Forgo following Fads`
