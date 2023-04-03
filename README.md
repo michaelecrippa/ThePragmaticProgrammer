@@ -102,3 +102,15 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
 `Tip: Make it easy to reuse`
 
 ### Orthogonality
+- What is orthogonality?
+- A nonorthogonal system
+- Benefits of orthogonality  
+`Tip: Eliminate effects between unrelated things`
+  - Gain productivity
+  - Reduce risk
+ - Design
+ - Toolkit and libraries
+ - Coding
+ - Testing
+ - Documentation
+- Living with orthogonality
