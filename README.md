@@ -128,3 +128,19 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
 - Tracer bullets don't always hit their target
 - Tracer code versus prototyping
 
+### Prototypes and Post-it Notes
+- Things to prototype
+  - Architecture
+  - New functionality in an existing system
+  - Structure or content of external data
+  - Third-party tools or components
+  - Performance issues
+  - User interface design  
+  `Tip: Prototype to learn`
+- How to use prototypes
+  - Prototyping architecture
+- How not to use prototypes
+
+### Domain Languages
+
+
