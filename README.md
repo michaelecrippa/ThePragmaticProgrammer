@@ -142,5 +142,17 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
 - How not to use prototypes
 
 ### Domain Languages
+`Tip: Program close to the problem domain`
+- Some real-world domain languages
+  - RSpec
+  - Cucumber
+  - Phoenix Routes
+  - Ansible
+ - Chracteristics of domain languages
+ - Trade-offs between internal and external languages
+ - An internal domain language on the cheap
 
+
+ ### Estimating
+ 
 
