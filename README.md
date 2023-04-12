@@ -168,5 +168,16 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
   `Tip: Iterate the schedule with the code`
  - What to say when asked for an extimate - `I'll get back to you.`
 
- ## Chapter 3 - The Basic Tools     
+## Chapter 3 - The Basic Tools  
+
+### The power of plain text
+ - What is plain text?   
+ 'Tip: Keep knowledge in plain text'
+ - The power of text
+   - Insurance against obsolence
+   - Leverage
+   - Easier testing
+ - Lowest common denominator
+ 
+
 
