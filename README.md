@@ -179,10 +179,17 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
    - Easier testing
  - Lowest common denominator
 
- ### Shell Games
+### Shell Games
 `Tip: Use the power of the command shell`
  - A shell of your own
 
- ### Power Editing
+### Power Editing
+ `Tip: Achieve editor fluency`
+ - What does 'Fluent' mean?
+ - Moving towards fluency
+   - Growing your editor
+
+### Version Control
+
 
 
