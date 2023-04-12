@@ -178,6 +178,11 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
    - Leverage
    - Easier testing
  - Lowest common denominator
- 
+
+ ### Shell Games
+`Tip: Use the power of the command shell`
+ - A shell of your own
+
+ ### Power Editing
 
 
