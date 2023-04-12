@@ -152,7 +152,21 @@ Book following the book The Pragmatic Programmer by David Thomas and Andrew Hunt
  - Trade-offs between internal and external languages
  - An internal domain language on the cheap
 
-
  ### Estimating
- 
+`Tips: Estimate to avoid surprises`  
+- How acurate is acurate enough?
+- Where do esitmates come from?
+  - Understand what is being asked
+  - Build a model of the system
+  - Break th model into components
+  - Give each parameter a value
+  - Calculate the answear
+  - Keep track of your estimation process
+ - Estimating project schedule
+   - Painting the missile
+   - Eating the elephant  
+  `Tip: Iterate the schedule with the code`
+ - What to say when asked for an extimate - `I'll get back to you.`
+
+ ## Chapter 3 - The Basic Tools     
 
